@@ -8,7 +8,19 @@ Material complementar do livro de **Ruan Carvalho Mayworm**.
 
 [Ver o notebook v1.0 no GitHub](https://github.com/rcmayworm/msa-com-python/blob/1a22c9fc6f988cb9fb13123108d196929e3bc34b/v1.0/msa_aplicacoes.ipynb) · [Baixar o arquivo .ipynb](https://raw.githubusercontent.com/rcmayworm/msa-com-python/1a22c9fc6f988cb9fb13123108d196929e3bc34b/v1.0/msa_aplicacoes.ipynb)
 
-## Como acompanhar
+## Planilha Excel
+
+[**Baixar a planilha Excel v1.0 (.xlsx)**](https://raw.githubusercontent.com/rcmayworm/msa-com-python/63e704ac909ad1705821d9a0d707b5de2b17df7f/v1.0/msa_calculos_v1.xlsx)
+
+A planilha oferece uma alternativa para acompanhar os principais cálculos sem programar. Contém instruções, entradas destacadas em amarelo, fórmulas automáticas e gráficos editáveis, sem macros.
+
+Inclui Gage R&R por médias e amplitudes e ANOVA, tendência e linearidade, estudo tipo 1, cartas de estabilidade e análise por atributos com kappa de Cohen e de Fleiss. Os exemplos de eixos e de resistência elétrica são selecionados na aba **GRR**. A crimpagem e as matrizes das tampas estão na aba **Atributos**.
+
+Salve uma cópia antes de substituir os dados amarelos. Os tamanhos dos estudos são fixos nesta versão: Gage R&R de **10 peças × 3 avaliadores × 3 repetições**, linearidade com 60 ou 30 leituras, tipo 1 com 25 repetições e estabilidade com 24 subgrupos de cinco leituras. Não insira nem exclua linhas. Ajuste a faixa de comparação e mantenha uma única unidade por estudo. A faixa de 0,40 mΩ do exemplo elétrico é ilustrativa e não representa uma tolerância bilateral.
+
+Esta versão foi recalculada no Microsoft Excel 16.0, comparada com os exemplos em Python e submetida a 119 verificações de resultados, troca de estudo, entradas ausentes e categorias inválidas. A compatibilidade com o Google Sheets ainda não foi validada.
+
+## Como acompanhar o notebook
 
 1. Abra o notebook pelo botão **Abrir no Google Colab**.
 2. Entre com sua conta Google e salve uma cópia no Drive pelo menu **Arquivo**.
