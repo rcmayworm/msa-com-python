@@ -26,8 +26,8 @@ Os dados são hipotéticos ou simulados e estão identificados como didáticos. 
 
 ## Acesso pela edição impressa e versões
 
-O QR code e o endereço impressos no livro apontam para esta página:
+O endereço do GitHub impresso no livro leva a esta página:
 
 **https://github.com/rcmayworm/msa-com-python**
 
-Esta página reúne os acessos ao GitHub e ao Colab. Os links da versão 1.0 acima apontam para a revisão verificada. Futuras revisões serão identificadas por versão neste repositório.
+O QR code do livro abre diretamente o notebook da edição no Google Colab. Esta página reúne as instruções, as versões e os acessos ao GitHub e ao Colab. Os links da versão 1.0 acima apontam para a revisão verificada. Futuras revisões serão identificadas por versão neste repositório.
