@@ -4,13 +4,13 @@
 
 Material complementar do livro de **Ruan Carvalho Mayworm**.
 
-[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rcmayworm/msa-com-python/blob/1a22c9fc6f988cb9fb13123108d196929e3bc34b/v1.0/msa_aplicacoes.ipynb)
+[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rcmayworm/msa-com-python/blob/main/msa_aplicacoes.ipynb)
 
-[Ver o notebook v1.0 no GitHub](https://github.com/rcmayworm/msa-com-python/blob/1a22c9fc6f988cb9fb13123108d196929e3bc34b/v1.0/msa_aplicacoes.ipynb) · [Baixar o arquivo .ipynb](https://raw.githubusercontent.com/rcmayworm/msa-com-python/1a22c9fc6f988cb9fb13123108d196929e3bc34b/v1.0/msa_aplicacoes.ipynb)
+[Ver o notebook no GitHub](https://github.com/rcmayworm/msa-com-python/blob/main/msa_aplicacoes.ipynb) · [Baixar o arquivo .ipynb](https://raw.githubusercontent.com/rcmayworm/msa-com-python/main/msa_aplicacoes.ipynb)
 
 ## Planilha Excel
 
-[**Baixar a planilha Excel v1.0 (.xlsx)**](https://raw.githubusercontent.com/rcmayworm/msa-com-python/63e704ac909ad1705821d9a0d707b5de2b17df7f/v1.0/msa_calculos_v1.xlsx)
+[**Baixar a planilha Excel (.xlsx)**](https://raw.githubusercontent.com/rcmayworm/msa-com-python/main/msa_calculos.xlsx)
 
 A planilha oferece uma alternativa para acompanhar os principais cálculos sem programar. Contém instruções, entradas destacadas em amarelo, fórmulas automáticas e gráficos editáveis, sem macros.
 
@@ -42,4 +42,6 @@ O endereço do GitHub impresso no livro leva a esta página:
 
 **https://github.com/rcmayworm/msa-com-python**
 
-O QR code do livro abre diretamente o notebook da edição no Google Colab. Esta página reúne as instruções, as versões e os acessos ao GitHub e ao Colab. Os links da versão 1.0 acima apontam para a revisão verificada. Futuras revisões serão identificadas por versão neste repositório.
+Os QR codes do notebook e da planilha abrem diretamente os arquivos vigentes. A cada atualização, os arquivos `msa_aplicacoes.ipynb` e `msa_calculos.xlsx` são atualizados na raiz da branch `main`, com os mesmos endereços.
+
+A [pasta da versão 1.0](https://github.com/rcmayworm/msa-com-python/tree/main/v1.0) guarda os arquivos publicados originalmente.
